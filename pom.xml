@@ -20,6 +20,12 @@
 			<artifactId>kom-media-ejb</artifactId>
 			<type>ejb</type>
 		</dependency>
+		
+		<dependency>
+			<groupId>pl.kompro</groupId>
+			<artifactId>kom-pro-int</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
      
 	<build>
